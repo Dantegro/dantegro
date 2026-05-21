@@ -9,4 +9,4 @@ Full-stack web developer. Software Engineering student at University of Westmins
 - Reach me: [dan@dantegro.com](mailto:dan@dantegro.com) or dantegro.com
 - I prefer shipping over celebrating, no BS.
 
-*Feedback welcome. If you’re looking for someone who is a solo dev and into indie hacking, let’s connect.*
+*Feedback welcome. If you’re looking for someone who is a solo dev and into indie hacking, feel free to connect.*
